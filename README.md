@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visualdemon
-- 👀 I’m interested in Web Development and Graphic Design
-- 🌱 I’m currently learning PHP, CSS, JAVASCRIPT, VUE, FLUTTER
+- 👀 I’m interested in Web Development and Cybersecurity
+- 🌱 I’m currently learning Laravel, VUE, Python.
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 Contact me on my website https://ingeniaestudios.com
 <!---
